@@ -1,8 +1,8 @@
 # HyGCL-AdT
 
-Dual-level Hypergraph Contrastive Learning with Adaptive Temperature
+Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement
 ====
-Official source code of "Dual-level Hypergraph Contrastive Learning with Adaptive Temperature" (WWW 2024) [Source Code](XXXXXXXX)
+Official source code of "Dual-level Hypergraph Contrastive Learning with Adaptive Temperature Enhancement" (WWW 2024) [Source Code](XXXXXXXX)
 
 
 ![HyGCL-AdT Framework](https://github.com/Tianyi-Billy-Ma/AdT/blob/main/images/HyGCL-AdT%20Framework.png)
