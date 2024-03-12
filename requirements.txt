@@ -1,0 +1,14 @@
+ipdb==0.13.13
+numpy==1.26.2
+pandas==2.1.4
+Pillow==10.0.1
+scikit-learn==1.2.2
+scipy==1.11.4
+toml==0.10.2
+torch==2.1.2
+torch-geometric==2.4.0
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torchvision==0.16.2
+tqdm==4.65.0
+wandb==0.16.1

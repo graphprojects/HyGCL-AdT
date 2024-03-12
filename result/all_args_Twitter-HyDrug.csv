@@ -1,0 +1,1 @@
+Namespace(All_num_layers=1, MLP_num_layers=2, feature_noise='0.0', heads=1, Classifier_num_layers=1, MLP_hidden=256, Classifier_hidden=256, wd=0.0, lr=0.001, method='AllDeepSets', dname='Twitter-HyDrug', batch_size=128, tau_lowerbound=0.2, m_l=1)
